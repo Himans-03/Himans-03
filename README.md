@@ -1,7 +1,7 @@
 # 💫 About Me:
-👨‍💻 Developer & QA at Innover Labs
-🐍 Full-stack Python practitioner
-🧪 Focused on building, testing, and improving reliable software
+👨‍💻 Developer & QA at Innover Labs<br>
+🐍 Full-stack Python practitioner<br>
+🧪 Focused on building, testing, and improving reliable software<br>
 ⚙️ Passionate about clean code and quality-driven development
 
 ## 🌐 Socials:
