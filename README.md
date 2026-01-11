@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm currently working at Innover labs<br>I'm am developer & QA <br>I practice full stack python
-
+👨‍💻 Developer & QA at Innover Labs
+🐍 Full-stack Python practitioner
+🧪 Focused on building, testing, and improving reliable software
+⚙️ Passionate about clean code and quality-driven development
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himan_sh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/himanshu-shekhar-9a7972358) 
